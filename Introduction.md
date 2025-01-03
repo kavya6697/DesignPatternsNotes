@@ -24,5 +24,25 @@ Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides written a book titl
 &ensp; **1. Creational DP:** deals with object creation in a defined systematic manner.  <br>
 &ensp; **2. Structural DP:** provides a mechanism to organize the classes and objects for larger structures.  <br>
 &ensp; **3. Behavioural DP:** deals with communication between objects.  <br>
-Patterns under each category is again sub-divided into either class scope patterns or object scope patterns. Class scope patterns are to be applied during design time, whereas object scope patterns to be applied during runtime. 
+Patterns under each category is again sub-divided into either class scope patterns or object scope patterns. Class scope patterns are to be applied during design time, whereas object scope patterns to be applied during runtime.
 
+## AntiPatterns
+Anti-pattern is the knowledge to prevent and recover from common mistakes. It is to deal with the gap between architectural concepts and real-world implementations. It mainly provide negative solutions - Solution that represents more problems than they address. <br>
+
+**Different Viewpoints:** to avoid bad occurrences and for smooth running. Manager viewpoint, architect viewpoint, and developer viewpoint are three major types. <br>
+**Applications:** <br>
+*Prototype:* file sharing, OS installation
+*Singleton:* shopping cart, ID card, OTP, Barcodes
+*Builder:* car parts, building
+
+## Generic Guidelines
+•	Study the applications of design.
+•	Map your application to the design pattern.
+•	Study the patterns which has similar solutions.
+•	Reusability if you are going to redesign for another solution.
+•	Having a wide knowledge about design patterns provide a structure for given pattern.
+
+## Problem-solving by Design patterns:
+•	Finding appropriate object
+•	Determining object granularity (object can vary in size and number)
+•	Specifying object interfaces
