@@ -16,6 +16,8 @@ Welcome to my GitHub initiative where I post one design pattern description each
 * Structural Design Patterns<br>
 * Behavioral Design Patterns<br>
 
+Each pattern is described in standard format consists of intent, motivation, application, UML structure, implementation details, consequences (if any), and relation with other patterns.  
+
 Feel free to join in and contribute to this project! You can reach out to me via [LinkedIn](https://www.linkedin.com/in/kavya-ramisetty-509298104/) or email me & at ramisetty.kavya06@gmail.com. 
 
 The primary goal of this initiative is to help strengthen the understanding of design patterns and get ready for next interview.
