@@ -1,6 +1,7 @@
 # Introduction to Design Patterns
 Design pattern is a general repeatable solution to a commonly occurring problem in software design. It is a template about how to solve a problem; same template can be used in many different situations.
 Consistency, clarity, time, and reuse are the pros of using design patters, whereas, anti-patterns, careful while choosing the pattern, negative consequences, subjective dependence on concrete scenarios, different interpretations are the cons in using design patterns.
+
 ## 15 Facts about Design Patterns
 1. Design patterns are different ways to enforce the fundamental design principles.
 2. Design patterns (DP) can speed up the development process by providing tested, proven development paradigms.
@@ -17,4 +18,11 @@ Consistency, clarity, time, and reuse are the pros of using design patters, wher
 13. DPs are part of the OO-community or DPs are the elements of some successful OO-systems.
 14. DPs should be easy to learn for inexperienced developers.
 15. DPs are not dealing with designing user interfaces.
-  
+
+## Gang of Four Design Patterns
+Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides written a book titled “Design Patterns: Elements of Reusable Object-Oriented Software” in 1994 which consists of 23 design patterns grouped under three categories. <br>
+&ensp; **1. Creational DP:** deals with object creation in a defined systematic manner.  <br>
+&ensp; **2. Structural DP:** provides a mechanism to organize the classes and objects for larger structures.  <br>
+&ensp; **3. Behavioural DP:** deals with communication between objects.  <br>
+Patterns under each category is again sub-divided into either class scope patterns or object scope patterns. Class scope patterns are to be applied during design time, whereas object scope patterns to be applied during runtime. 
+
