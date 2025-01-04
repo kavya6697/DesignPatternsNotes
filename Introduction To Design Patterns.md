@@ -23,7 +23,7 @@ Consistency, clarity, time, and reuse are the pros of using design patters, wher
 ## Gang of Four Design Patterns
 Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides written a book titled “Design Patterns: Elements of Reusable Object-Oriented Software” in 1994 which consists of 23 design patterns grouped under three categories. <br>
 &ensp; **1. Creational DP:** deals with object creation in a defined systematic manner.<br>
-&ensp; &ensp; **List of Creational DPs:** [Abstract Factory]([CreationalDesignPatterns/FactoryMethod](https://github.com/kavya6697/DesignPatternsNotes/blob/028c234b1eaf4e9801850b897274b2da79ae4e63/Creational%20Design%20Patterns/AbstractFactoryPatternDescription.md)), [Factory Method]() <br>
+&ensp; &ensp; **List of Creational DPs:** [Abstract Factory](https://github.com/kavya6697/DesignPatternsNotes/blob/028c234b1eaf4e9801850b897274b2da79ae4e63/Creational%20Design%20Patterns/AbstractFactoryPatternDescription.md)), [Factory Method]() <br>
 &ensp; **2. Structural DP:** provides a mechanism to organize the classes and objects for larger structures.  <br>
 &ensp; **3. Behavioural DP:** deals with communication between objects.  <br>
 Patterns under each category is again sub-divided into either class scope patterns or object scope patterns. Class scope patterns are to be applied during design time, whereas object scope patterns to be applied during runtime.
