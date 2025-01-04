@@ -1,6 +1,6 @@
 # Abstract Factory Design Pattern
 
-## Scenario: Apparel Company - Clothing Line Expansion
+## Scenario: Apparel Industry - Clothing Line Expansion
 
 ### Problem Statement
 FashionCo is a leading apparel brand known for casual wear. With increasing demand, the company now wants to expand its offerings to include formal wear and sportswear. Each collection will feature shirts, trousers, jackets, shoes, and other items for men, women, and children, available in various fabrics and colors. <br>
