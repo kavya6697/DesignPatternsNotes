@@ -38,4 +38,4 @@ The Python implementation for this pattern can be found in the AbstractFactory.p
 **2. Hyundai:** A manufacturer that produces various vehicles, including cars, scooters, and electric vehicles. Each vehicle type (car, scooter, electric vehicle) requires specific components, designs, and manufacturing processes, making the Abstract Factory pattern useful for managing the different product lines.
 
 ### Collaboration & Suggestions 
-If you wish to collaborate or suggest any improvements, please feel free to reach out via [Mail](ramisetty.kavya06@gmail.com)
+If you wish to collaborate or suggest any improvements, please feel free to reach out via Mail - ramisetty.kavya06@gmail.com
