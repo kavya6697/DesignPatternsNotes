@@ -1,3 +1,4 @@
+**------------------------- WORK IN PROGRESS -----------------------------**
 # Introduction to Design Patterns
 Design pattern is a general repeatable solution to a commonly occurring problem in software design. It is a template about how to solve a problem; same template can be used in many different situations.
 Consistency, clarity, time, and reuse are the pros of using design patters, whereas, anti-patterns, careful while choosing the pattern, negative consequences, subjective dependence on concrete scenarios, different interpretations are the cons in using design patterns.
