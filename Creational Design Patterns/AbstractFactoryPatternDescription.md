@@ -33,9 +33,7 @@ The Python implementation for this pattern can be found in the [AbstractFactoryP
 
 ### Other Real-world Applicable Scenarios
 
-**1. BigC Mobile Showroom:** A mobile showroom that offers various models from brands like Samsung, Apple, and others. Each brand has different product lines (smartphones, tablets, accessories, etc.) with unique specifications, designs, and features. <br>
-  
-**2. Hyundai:** A manufacturer that produces various vehicles, including cars, scooters, and electric vehicles. Each vehicle type (car, scooter, electric vehicle) requires specific components, designs, and manufacturing processes, making the Abstract Factory pattern useful for managing the different product lines.
+**BigC Mobile Showroom:** A mobile showroom that offers various models from brands like Samsung, Apple, and others. Each brand has different product lines (smartphones, tablets, accessories, etc.) with unique specifications, designs, and features. <br>
 
 ### Collaboration & Suggestions 
 If you wish to collaborate or suggest any improvements, please feel free to reach out via Mail - ramisetty.kavya06@gmail.com
