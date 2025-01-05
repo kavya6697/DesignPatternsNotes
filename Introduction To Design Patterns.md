@@ -24,17 +24,15 @@ Consistency, clarity, time, and reuse are the pros of using design patters, wher
 Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides written a book titled “Design Patterns: Elements of Reusable Object-Oriented Software” in 1994 which consists of 23 design patterns grouped under three categories. Patterns under each category is again sub-divided into either class scope patterns or object scope patterns. Class scope patterns are to be applied during design time, whereas object scope patterns to be applied during runtime. <br>
 
 **1. Creational DP:** Deals with object creation in a defined systematic manner.
-* [Factory Method](https://github.com/kavya6697/DesignPatternsNotes/blob/f2d8b3729f9ae3c49a74a63e7c66d5617e7a6ff8/Creational%20Design%20Patterns/FactoryMethodPatternDescription.md)
-* [Abstract Factory](https://github.com/kavya6697/DesignPatternsNotes/blob/028c234b1eaf4e9801850b897274b2da79ae4e63/Creational%20Design%20Patterns/AbstractFactoryPatternDescription.md)
-* [Singleton](https://github.com/kavya6697/DesignPatternsNotes/blob/f2d8b3729f9ae3c49a74a63e7c66d5617e7a6ff8/Creational%20Design%20Patterns/SingletonPatternDescription.md)
-* [Prototype](https://github.com/kavya6697/DesignPatternsNotes/blob/f2d8b3729f9ae3c49a74a63e7c66d5617e7a6ff8/Creational%20Design%20Patterns/PrototypePatternDescription.md)
-* [Builder](https://github.com/kavya6697/DesignPatternsNotes/blob/f2d8b3729f9ae3c49a74a63e7c66d5617e7a6ff8/Creational%20Design%20Patterns/PrototypePatternDescription.md)
+* [Factory Method](https://github.com/kavya6697/DesignPatternsNotes/blob/main/Creational%20Design%20Patterns/FactoryMethodPatternDescription.md)
+* [Abstract Factory](https://github.com/kavya6697/DesignPatternsNotes/blob/main/Creational%20Design%20Patterns/AbstractFactoryPatternDescription.md)
+* [Singleton](https://github.com/kavya6697/DesignPatternsNotes/blob/main/Creational%20Design%20Patterns/SingletonPatternDescription.md)
+* [Prototype](https://github.com/kavya6697/DesignPatternsNotes/blob/main/Creational%20Design%20Patterns/PrototypePatternDescription.md)
+* [Builder](https://github.com/kavya6697/DesignPatternsNotes/blob/main/Creational%20Design%20Patterns/PrototypePatternDescription.md)
   
 **2. Structural DP:** provides a mechanism to organize the classes and objects for larger structures.  <br>
 
 **3. Behavioural DP:** deals with communication between objects.  <br>
-
-
 
 ## AntiPatterns
 Anti-pattern is the knowledge to prevent and recover from common mistakes. It is to deal with the gap between architectural concepts and real-world implementations. It mainly provide negative solutions - Solution that represents more problems than they address. <br>
