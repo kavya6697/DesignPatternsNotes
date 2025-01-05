@@ -23,7 +23,7 @@ The Singleton pattern reduces the overhead of creating and destroying multiple i
 Ensure that a class has only one instance and provide a global point of access to that instance.
 
 ### Python Implementation
-The Python implementation for this pattern can be found in the [SingletonPatternImplementation.py](https://github.com/kavya6697/DesignPatternsNotes/blob/74dc201c935f99a80cba1d45d0b72c77ea02376b/Creational%20Design%20Patterns/SingletonPatternImplementation.py).
+The Python implementation for this pattern can be found in the [SingletonPatternImplementation.py](https://github.com/kavya6697/DesignPatternsNotes/blob/main/Creational%20Design%20Patterns/SingletonPatternImplementation.py).
 
 ### Related Patterns
 1. Abstract Factory <br>
