@@ -57,3 +57,11 @@ Anti-pattern is the knowledge to prevent and recover from common mistakes. It is
 •	Finding appropriate object<br>
 •	Determining object granularity (object can vary in size and number)<br>
 •	Specifying object interfaces<br>
+
+## Assume a scenario is given to you in an interview, and asked to choose the best applicable design pattern and why??
+
+### Tips for choosing best design pattern
+
+1. If the scenario is related to grouping of objects, then go with **Abstract Factory Pattern**
+2. If the scenario is related to independent object creation with less dependency with client code, then go with **Factory method pattern**
+3. 
