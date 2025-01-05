@@ -1,6 +1,6 @@
-# Handy Notes on Design Patterns
+# Handy Notes on 23 Design Patterns
 
-## 23-Day Design Patterns Challenge
+## 30-Day Self-Learning Challenge
 
 [![GitHub contributors](https://img.shields.io/github/contributors/kavya6697/DesignPatternsNotes.svg)](https://GitHub.com/kavya6697/DesignPatternsNotes)
 [![GitHub issues](https://img.shields.io/github/issues/kavya6697/DesignPatternsNotes.svg)](https://GitHub.com/kavya6697/DesignPatternsNotes/issues/)
@@ -11,7 +11,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/kavya6697/DesignPatternsNotes.svg?style=social&label=Fork)](https://GitHub.com/kavya6697/DesignPatternsNotes/network/)
 [![GitHub stars](https://img.shields.io/github/stars/kavya6697/DesignPatternsNotes.svg?style=social&label=Star)](https://GitHub.com/kavya6697/DesignPatternsNotes/stargazers/)
 
-Welcome to my GitHub initiative where I post one design pattern description each day. This challenge covers 23 different design patterns, categorized into three main types:<br>
+Welcome to my GitHub initiative where I make notes on design patterns in a month. This challenge covers 23 different design patterns, categorized into three main types:<br>
 * Creational Design Patterns<br>
 * Structural Design Patterns<br>
 * Behavioral Design Patterns<br>
