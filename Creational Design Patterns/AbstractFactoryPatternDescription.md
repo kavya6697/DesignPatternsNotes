@@ -31,7 +31,7 @@ According to Open/Close principle, system should be Open for extension and Close
 The Abstract Factory pattern provides an interface for creating families of related objects without specifying their concrete classes. In this case, FashionCo can create different product families (e.g., formal wear, casual wear) through abstract factories, allowing for easier management of diverse product lines.
 
 ### Python Implementation
-The Python implementation for this pattern can be found in the [AbstractFactoryPatternImplementation.py](https://github.com/kavya6697/DesignPatternsNotes/blob/f2d8b3729f9ae3c49a74a63e7c66d5617e7a6ff8/Creational%20Design%20Patterns/AbstractFactoryPatternImplementation.py).
+The Python implementation for this pattern can be found in the [AbstractFactoryPatternImplementation.py](https://github.com/kavya6697/DesignPatternsNotes/blob/main/Creational%20Design%20Patterns/AbstractFactoryPatternImplementation.py).
 
 ### Related Patterns
 1. Singleton <br>
