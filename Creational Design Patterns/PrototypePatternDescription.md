@@ -24,7 +24,7 @@ The Prototype Pattern minimizes the risk of inconsistencies or errors by ensurin
 The Prototype Design Pattern involves creating new objects with variations by cloning an existing prototype. This approach ensures that the core design remains consistent while offering flexibility for customization. 
 
 ### Python Implementation
-The Python implementation for this pattern can be found in the []().
+The Python implementation for this pattern can be found in the [PrototypePatternImplementation.py](https://github.com/kavya6697/DesignPatternsNotes/blob/main/Creational%20Design%20Patterns/PrototypePatternImplementation.py).
 
 ### Related Patterns
 1. Abstract Factory <br>
