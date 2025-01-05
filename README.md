@@ -18,7 +18,7 @@ Welcome to my GitHub initiative where I post one design pattern description each
 
 Each pattern is described with a real world scenario in standard format consists of problem statement, motivation, intent,  python step-by-step implementation, related patterns, and few other real world examples.  
 
-Now, Let's dive into the repo from the [Introduction to Design Patterns](https://github.com/kavya6697/DesignPatternsNotes/blob/3bf47e91a91d2d39ab44473b1fdbc4b8ad8313d2/Introduction%20To%20Design%20Patterns.md)
+Now, Let's dive into the repo from the [Introduction to Design Patterns](https://github.com/kavya6697/DesignPatternsNotes/blob/main/Introduction%20To%20Design%20Patterns.md)
 
 **😜Fun Fact: Updating this repository is an ongoing journey. Whenever I discover new insights related to Design Patterns, I’m excited to add them here**
 
