@@ -7,7 +7,7 @@
 
 **As a software architect, what design pattern would you suggest to satisfy this requirement?**
 
-### Motivation for choosing Abstract Factory Pattern
+### Motivation for choosing Adaptor Pattern
 
 &nbsp; **1. :** <br>
  <br>
