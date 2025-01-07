@@ -19,7 +19,7 @@ If the existing system is complex, directly modifying it to support additional f
 The Adapter Pattern preserves the Open/Closed Principle: the system is closed for modification (you don't need to change the core image processing code) but open for extension (you can easily introduce new adapters for other formats, like PNG, GIF, etc.). This results in more scalable and flexible code. <br>
 
 ### Intent
-The intent of the Adapter Pattern is to convert the interface of a class into another interface that clients expect. The Adapter allows classes to work together that otherwise would not due to incompatible interfaces.
+Convert the interface of a class into another interface that clients expect. The Adapter allows classes to communicate smoothly that otherwise would not due to incompatible interfaces.
 
 ### Python Implementation
 The Python implementation for this pattern can be found in the []().
