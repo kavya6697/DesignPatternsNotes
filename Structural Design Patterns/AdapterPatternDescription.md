@@ -22,7 +22,7 @@ The Adapter Pattern preserves the Open/Closed Principle: the system is closed fo
 Convert the interface of a class into another interface that clients expect. The Adapter allows classes to communicate smoothly that otherwise would not due to incompatible interfaces.
 
 ### Python Implementation
-The Python implementation for this pattern can be found in the []().
+The Python implementation for this pattern can be found in the [AdapterPatternImplementation.py](https://github.com/kavya6697/DesignPatternsNotes/blob/main/Structural%20Design%20Patterns/AdapterPatternImplementation.py).
 
 ### Related Patterns
 1. Bridge <br>
