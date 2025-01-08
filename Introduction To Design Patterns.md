@@ -62,4 +62,10 @@ Anti-pattern is the knowledge to prevent and recover from common mistakes. It is
 
 1. If the scenario is related to grouping of objects, then go with **Abstract Factory Pattern**
 2. If the scenario is related to independent object creation with less dependency with client code, then go with **Factory method pattern**
-3. 
+3. If the scenario is related to seperating the construction process from its representation, then go with **Builder pattern**
+4. If the scenario is related to cloning existing and modifying, then go with **Prototype pattern**
+5. If the scenario is related to creating only one instance, then go with **Singleton pattern**
+6. If the scenario is related to changing one form to another, then go with **Adapter pattern**
+7. If the scenario is related to adding additional functionalities to base code, then go with **Decorator**
+8. If the scenario is related to hiding the complex process, then go with **Facade pattern**
+9. 
