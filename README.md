@@ -1,4 +1,4 @@
-# Handy Notes on 23 Design Patterns
+# Description and Implementation of all 23 design patterns
 
 ## 30-Day Self-Learning Challenge
 
