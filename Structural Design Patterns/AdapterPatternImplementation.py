@@ -1,4 +1,6 @@
-Adapter code
+### Adapter Design Pattern
+
+### Scenario Used: Image Format Converter
 
 # Target Interface: ImageProcessor (expects JPEG images)
 class ImageProcessor:
