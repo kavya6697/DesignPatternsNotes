@@ -22,7 +22,7 @@ With the Decorator Pattern, the coffee shop staff (clients) can simply interact 
 The Decorator Pattern enables to dynamically attach additional responsibilities to an object, allowing for greater customization and flexibility in extending the behavior of an object.
 
 ### Python Implementation
-The Python implementation for this pattern can be found in the []().
+The Python implementation for this pattern can be found in the [DecoratorPatternImplementation.py](https://github.com/kavya6697/DesignPatternsNotes/blob/main/Structural%20Design%20Patterns/DecoratorPatternImplementation.py).
 
 ### Related Patterns
 1. Adapter <br>
