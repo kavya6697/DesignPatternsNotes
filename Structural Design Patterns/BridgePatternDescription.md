@@ -22,7 +22,7 @@ Without the Bridge Pattern, if there are many devices and remotes, the code may 
 To separate the abstraction (the interface or remote control) from its implementation (the specific device logic), enabling both to evolve independently without impacting each other.
 
 ### Python Implementation
-The Python implementation for this pattern can be found in the []().
+The Python implementation for this pattern can be found in the [BridgePatternImplementation.py](https://github.com/kavya6697/DesignPatternsNotes/blob/main/Structural%20Design%20Patterns/BridgePatternImplementation.py).
 
 ### Related Patterns
 1. Adapter <br>
