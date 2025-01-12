@@ -1,4 +1,4 @@
-# Description and Implementation of all 23 design patterns
+# Description & Implementation of 23 Design Patterns
 
 ## 30-Day Self-Learning Challenge
 
