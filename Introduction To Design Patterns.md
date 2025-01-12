@@ -71,4 +71,4 @@ Anti-pattern is the knowledge to prevent and recover from common mistakes. It is
 9. If the scenario is related to hierarchy, then go with **Composite Pattern**
 10. If the scenario is related to providing substitute for access control, then go with **Proxy Pattern**
 11. If the scenario is related to seperation of interface from implementation, then go with **Bridge Pattern**
-12. If the scenario is  
+12. If the scenario is related to memory optimisation, then go with **Flyweight Pattern** 
