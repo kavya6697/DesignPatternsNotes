@@ -10,7 +10,7 @@ Imagine you are developing a cloud-based application that needs to interact with
 ### Motivation for choosing Proxy Pattern
 
 &nbsp; **1. Improve Performance and Efficiency (Lazy Initialization & Caching):** <br>
-_Lazy Initialization:_ Direct access to a remote service for each request can be slow, especially if the service is on a different server or involves complex data retrieval processes. The proxy pattern defers the actual network call until the data is required, reducing unnecessary latency.
+_Lazy Initialization:_ Direct access to a remote service for each request can be slow, especially if the service is on a different server or involves complex data retrieval processes. The proxy pattern defers the actual network call until the data is required, reducing unnecessary latency.<br>
 _Caching:_ The proxy can cache data once retrieved from the remote service, allowing subsequent requests for the same data to be served from the cache, minimizing redundant network calls and improving system performance. <br>
 
 &nbsp; **2. Maintain Consistency and Control Over Remote Service Access:**  <br>
