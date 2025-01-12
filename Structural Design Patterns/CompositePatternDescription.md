@@ -22,7 +22,7 @@ The pattern supports recursive structures, where a composite (manager) can manag
 The intent of the Composite Pattern is to compose objects into tree-like structures that represent part-whole hierarchies, allowing clients to treat individual objects and their compositions uniformly.
 
 ### Python Implementation
-The Python implementation for this pattern can be found in the []().
+The Python implementation for this pattern can be found in the [CompositePatternImplementation.py](https://github.com/kavya6697/DesignPatternsNotes/blob/main/Structural%20Design%20Patterns/CompositePatternImplementation.py).
 
 ### Related Patterns
 1. Decorator <br>
