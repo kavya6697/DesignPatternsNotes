@@ -23,7 +23,7 @@ The proxy pattern introduces an abstraction layer between the client and the rem
 The Proxy Design Pattern provides a placeholder or surrogate object to control access to another object, particularly when dealing with remote or external services. The proxy exposes an identical interface to the client, allowing it to interact with the proxy as though it were the actual service. This prevents the client from needing to directly interact with the remote object and abstracts complexities such as latency, caching, or security.
 
 ### Python Implementation
-The Python implementation for this pattern can be found in the []().
+The Python implementation for this pattern can be found in the [ProxyPatternImplementation.py](https://github.com/kavya6697/DesignPatternsNotes/blob/main/Structural%20Design%20Patterns/ProxyPatternImplementation.py).
 
 ### Related Patterns
 1. Adapter <br>
