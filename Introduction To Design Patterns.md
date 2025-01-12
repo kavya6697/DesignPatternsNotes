@@ -68,4 +68,4 @@ Anti-pattern is the knowledge to prevent and recover from common mistakes. It is
 6. If the scenario is related to changing one form to another, then go with **Adapter pattern**
 7. If the scenario is related to adding additional functionalities to base code, then go with **Decorator**
 8. If the scenario is related to hiding the complex process, then go with **Facade pattern**
-9. 
+9. If the scenario is related to hierarchy, then go with **Composite Pattern**
