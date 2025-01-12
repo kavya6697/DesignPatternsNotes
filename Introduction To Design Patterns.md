@@ -31,6 +31,13 @@ Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides written a book titl
 * [Builder](https://github.com/kavya6697/DesignPatternsNotes/blob/main/Creational%20Design%20Patterns/PrototypePatternDescription.md)
   
 **2. Structural DP:** provides a mechanism to organize the classes and objects for larger structures.  <br>
+* [Adapter](https://github.com/kavya6697/DesignPatternsNotes/blob/main/Structural%20Design%20Patterns/AdapterPatternDescription.md)
+* [Bridge](https://github.com/kavya6697/DesignPatternsNotes/blob/main/Structural%20Design%20Patterns/BridgePatternDescription.md)
+* [Composite](https://github.com/kavya6697/DesignPatternsNotes/blob/main/Structural%20Design%20Patterns/CompositePatternDescription.md)
+* [Decorator](https://github.com/kavya6697/DesignPatternsNotes/blob/main/Structural%20Design%20Patterns/DecoratorPatternDescription.md)
+* [Facade](https://github.com/kavya6697/DesignPatternsNotes/blob/main/Structural%20Design%20Patterns/FacadePatternDescription.md)
+* [Flyweight](https://github.com/kavya6697/DesignPatternsNotes/blob/main/Structural%20Design%20Patterns/FlyweightPatternDescription.md)
+* [Proxy](https://github.com/kavya6697/DesignPatternsNotes/blob/main/Structural%20Design%20Patterns/ProxyPatternDescription.md) 
 
 **3. Behavioural DP:** deals with communication between objects.  <br>
 
