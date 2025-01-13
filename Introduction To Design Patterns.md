@@ -41,27 +41,16 @@ Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides written a book titl
 
 **3. Behavioural DP:** deals with communication between objects.  <br>
 
-## AntiPatterns
-Anti-pattern is the knowledge to prevent and recover from common mistakes. It is to deal with the gap between architectural concepts and real-world implementations. It mainly provide negative solutions - Solution that represents more problems than they address. <br>
 
-**Different Viewpoints:** to avoid bad occurrences and for smooth running. Manager viewpoint, architect viewpoint, and developer viewpoint are three major types. <br>
 
-**Applications:**<br>
-*Prototype:* file sharing, OS installation<br>
-*Singleton:* shopping cart, ID card, OTP, Barcodes<br>
-*Builder:* car parts, building<br>
 
-## Generic Guidelines
+
+## Generic Guidelines to Choose an Appropriate Design Pattern
 •	Study the applications of design.<br>
 •	Map your application to the design pattern.<br>
 •	Study the patterns which has similar solutions.<br>
-•	Reusability if you are going to redesign for another solution.<br>
-•	Having a wide knowledge about design patterns provide a structure for given pattern.<br>
-
-## Problem-solving by Design patterns:
-•	Finding appropriate object<br>
-•	Determining object granularity (object can vary in size and number)<br>
-•	Specifying object interfaces<br>
+•	Reuse if you are going to redesign for another solution.<br>
+•	Have wide knowledge about design patterns to provide a structure for chosen pattern.<br>
 
 ## Assume a scenario is given to you in an interview, and asked to choose the best applicable design pattern and why??
 
